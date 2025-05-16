@@ -1,9 +1,11 @@
 # OLX-Reger
+
 🇺🇸 EN: 
 
 An automated tool for quickly and efficiently creating multiple accounts on the OLX platform, streamlining the registration process and saving time.
 
 ✅ **Advantages:**
+
 
 ⚙️ Full automation of account registration on OLX
 
@@ -61,3 +63,5 @@ An automated tool for quickly and efficiently creating multiple accounts on the 
 
 Contact / Контакты
 https://t.me/BASProject | https://t.me/Ax1zz
+
+![Frame 174](https://github.com/user-attachments/assets/7ae4c5d0-a424-45aa-bd8d-5818a20bb395)
