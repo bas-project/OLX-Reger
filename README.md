@@ -58,3 +58,6 @@ An automated tool for quickly and efficiently creating multiple accounts on the 
 🧠 Интеграция с антикапчей (по выбору) 
 
 📦 Механизм хранения/импорта/экспорта аккаунтов 
+
+Contact / Контакты
+https://t.me/BASProject | https://t.me/Ax1zz
