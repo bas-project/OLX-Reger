@@ -29,8 +29,6 @@ An automated tool for quickly and efficiently creating multiple accounts on the 
 
 🧠 Captcha solving integration (as needed)
 
-📦 Storage/import/export of accounts
-
 🇷🇺 RU: 
 
 Автоматизированная программа для быстрого и массового создания аккаунтов на сервисе OLX, упрощающая процесс регистрации и экономящая время.
@@ -58,8 +56,6 @@ An automated tool for quickly and efficiently creating multiple accounts on the 
 🔒 Использование прокси (IPv4, SOCKS5, http(s), etc.)
 
 🧠 Интеграция с антикапчей (по выбору) 
-
-📦 Механизм хранения/импорта/экспорта аккаунтов 
 
 -
 
