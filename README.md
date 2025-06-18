@@ -17,7 +17,7 @@ An automated tool for quickly and efficiently creating multiple accounts on the 
 
 📋  Flexible scenarios and adaptation to site changes
 
-🛠 Requirements:
+🛠 **Requirements**:
 
 💻 BAS (Browser Automation Studio)
 
