@@ -25,7 +25,7 @@ An automated tool for quickly and efficiently creating multiple accounts on the 
 
 🧩 Integration with email/SMS services
 
-🔒 Proxy support (IPv4, SOCKS5, etc.)
+🔒 Proxy support (IPv4, SOCKS5, http(s) etc.)
 
 🧠 Captcha solving integration (as needed)
 
